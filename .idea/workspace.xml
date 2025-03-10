@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3243d8-7813-432b-9f43-384cc773eda3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafio/app/damas/components/Linha1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio/app/damas/components/Linha2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio/app/damas/css/style.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio/app/damas/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/desafio/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741643490880</updated>
-      <workItem from="1741643501323" duration="1038000" />
+      <workItem from="1741643501323" duration="3763000" />
     </task>
     <servers />
   </component>
