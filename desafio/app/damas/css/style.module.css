@@ -1,0 +1,45 @@
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: #56565a;
+}
+
+.tabuleiro{
+    background-color: #383838;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+}
+.casabranca{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+.casapreta{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+
+.pecaAzul {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #1019b1;
+    margin: 5px auto;
+}
+
+.pecaVermelha {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: red;
+    margin: 5px auto;
+}
+
